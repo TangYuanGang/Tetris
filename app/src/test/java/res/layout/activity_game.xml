@@ -10,7 +10,7 @@
 
         android:orientation="horizontal">
 
-        <com.example.ccy.tetris.TetrisBoard
+        <com.example.ccy.mytetris.TetrisBoard
             android:id="@+id/tb_game"
             android:layout_width="0dp"
             android:layout_height="match_parent"
